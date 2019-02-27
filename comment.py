@@ -8,13 +8,13 @@ It send 5000 comments after 2 second delay.
 **********************************************************
 Warning: DO NOT TRY THIS. THIS MAY BE TAKES AS CYBER CRIME
 **********************************************************
-""""
+"""
 """
 Developed by: Ashraf Minhaj
 mail: ashraf_minhaj@yahoo.com
-""""
+"""
 
-""""
+"""
 You must have pyautogui installed in your pc.
 If not try 'pip install pyautogui'  command.
 """
@@ -33,7 +33,7 @@ while True:     #forever loop
     if x == 0:   #if x = 0 break the loop stop the code
         break     #break the loop
 
-""""
+"""
 It is said again and again not to use this code.
 I will not hold any responsibilities for anything is you use this code
-""""
+"""
