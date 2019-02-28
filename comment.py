@@ -3,7 +3,7 @@ Robotic comment code using python pyAutogui
 
 A code that automatically types comments and presses 'Enter' to send 
 the comment. It was developed to annoy my friend.
-It send 5000 comments after 2 second delay.
+It sends 5000 comments after 2 seconds delay.
 
 **********************************************************
 Warning: DO NOT TRY THIS. THIS MAY BE TAKEN AS CYBER CRIME
@@ -35,5 +35,5 @@ while True:     #forever loop
 
 """
 It is said again and again not to use this code.
-I will not hold any responsibilities for anything is you use this code.
+I will not hold any responsibilities for anything if you use this code.
 """
