@@ -25,7 +25,7 @@ import pyautogui      #import pyautui package to use the keyboad in our case
 x = 5000              #How many messages do I want to send
 
 while True:     #forever loop
-    pyautogui.typewrite("I'll help you buddy")  #type in the messsage
+    pyautogui.typewrite("I Love You.")  #type in the messsage
     sleep(.600)   #a bit delay of 600 ms
     pyautogui.typewrite("\n")  #Hit 'Enter' 
     sleep(2)                #delay of 2 seconds
